@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+
+
+}
+h1 {
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    @import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+}
+
+p {
+    color: hotpink;
+    font-family: "Amarante", serif
+}
+
+
